@@ -1,8 +1,14 @@
 .. image:: https://travis-ci.org/GeoscienceAustralia/anuga_core.svg?branch=master
     :target: https://travis-ci.org/GeoscienceAustralia/anuga_core
-    
+    :alt: travis ci status
+
+.. image:: https://ci.appveyor.com/api/projects/status/ws836mwk6j5brrye?svg=true
+    :target: https://ci.appveyor.com/project/stoiver/anuga-core
+    :alt: appveyor status
+
 .. image:: https://coveralls.io/repos/GeoscienceAustralia/anuga_core/badge.svg?branch=master
   :target: https://coveralls.io/r/GeoscienceAustralia/anuga_core?branch=master
+  :alt: coverage
 
 .. image:: https://img.shields.io/pypi/v/anuga.svg
     :target: https://pypi.python.org/pypi/anuga/
@@ -29,9 +35,9 @@ We recommend using python 2.7
 Developed at Geoscience Australia and Mathematical Sciences Institute at the
 Australian National University.
 
-This fork is working on attaching a 1D pipe network :-) Petar made a change
-Rudy also made one...
-Checking that it works with SSH
+This branch is called swmmlink and is work in progress to incorporate a 
+1D pipe network into ANUGA.
+
 
 Copyright 2004 - 2017 
 Ole Nielsen, Stephen Roberts, Duncan Gray, Jane Sexton, Gareth Davies
